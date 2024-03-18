@@ -1,0 +1,39 @@
+{
+  "editor.fontFamily": " Cascade Mono",
+  "editor.fontLigatures": true,
+  "editor.letterSpacing": 1.5,
+  "editor.lineHeight": 20,
+  "editor.fontSize": 14,
+  "editor.cursorWidth": 1,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.minimap.enabled": false,
+  "background.enabled": false,
+  "backgroundCover.imagePath": "c:\\Users\\ASUS TUF\\Desktop\\vswallpaper.gif",
+  "backgroundCover.opacity": 0.1,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "chatgpt.lang": "en",
+  "material-ui-snippets.showNotesOnStartup": false,
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Ayu Dark",
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.smoothScrolling": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrap": "on",
+  "window.zoomLevel": -1,
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "scm.inputFontFamily": "Consolas",
+  "terminal.integrated.fontFamily": "monospace"
+}
